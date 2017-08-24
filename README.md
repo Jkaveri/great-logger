@@ -1,0 +1,1 @@
+# js-logging-adapter
